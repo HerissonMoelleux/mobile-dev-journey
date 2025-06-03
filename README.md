@@ -46,6 +46,7 @@
 | Проект | Стек | Репозиторий |
 |--------|------|-------------|
 | `dart-grade-calculator` | Dart | https://github.com/HerissonMoelleux/Grade-Calculator |
+| `dart-OOP` | Dart with classes | https://github.com/HerissonMoelleux/Dart_OOP |
 | `flutter-todo-app` | Flutter + Express | - |
 | `fastapi-ml` | FastAPI + Python | - |
 | `node-auth-api` | Node.js + PostgreSQL | - |
